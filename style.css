@@ -1,0 +1,38 @@
+.menu {
+  display: flex;
+    justify-content:space-evenly;
+}
+.form_login {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-top: 60px;
+}
+
+.form_login label {
+    margin-top: 10px;
+}
+.form_login button{
+    width: 173px;
+margin-top:20px;
+}
+.create_account {
+    margin-top: 10px;
+    width: 170px;
+}
+.body {
+    background-image:url("fon_most.jpg");
+    background-size: cover;
+
+}
+.form_registered {
+    flex-direction: column;
+    width: 200px;
+    margin-top: 60px;}
+.clock {
+    margin-left: 1560px;
+margin-top:165px;
+}
+.marked { color: white;
+}
+
